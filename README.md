@@ -7,6 +7,8 @@ Welcome to my professional portfolio repository! This project is a showcase of m
 This portfolio is designed to provide an interactive overview of my skills, education, and project experience. It represents my dedication to writing clean, accessible code and prioritizing an engaging user experience.
 Here, you’ll find my certifications, skills, recent projects, and direct contact information.
 
+
+
 ✨ Features
 Responsive Design 📱: Adaptable layout for desktop and mobile screens.
 
