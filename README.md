@@ -10,6 +10,7 @@ Here, you’ll find my certifications, skills, recent projects, and direct conta
 
 
 ✨ Features
+
 Responsive Design 📱: Adaptable layout for desktop and mobile screens.
 
 Interactive Navigation 🧭: Dual navigation with a classic desktop layout and a mobile-friendly hamburger menu.
